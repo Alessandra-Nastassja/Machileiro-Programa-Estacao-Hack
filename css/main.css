@@ -1,0 +1,22 @@
+.about-fazemos-1{
+	float: left;
+}
+.about-fazemos-2{
+	float: right;
+}
+
+.frase-2{
+	margin-top: 100px;
+}
+
+.img-about{
+	width: 90%;
+}
+.texto-about{
+	margin-bottom: 50px;
+}
+
+.btn{
+	background-color: #4A95BC !important;
+	border-color:  #4A95BC !important;
+}
